@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Snake.cpp
+c:\users\lenovo\desktop\个人\c语言\小游戏-贪吃蛇\snake\snake\snake.cpp(384): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Snake.vcxproj -> C:\Users\lenovo\Desktop\个人\C语言\小游戏-贪吃蛇\Snake\Debug\Snake.exe
